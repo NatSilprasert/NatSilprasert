@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">- 📚 I'm currently learning NextJS, TypeScript, and ExpressJS</p>
+<p align="left">- 🌈 I’m just getting started on my path to becoming a developer.</p>
+<p align="left">- 📚 Currently learning NextJS, TypeScript, and ExpressJS</p>
 
 ###
 
