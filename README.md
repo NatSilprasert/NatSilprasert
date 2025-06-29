@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 📚 Currently learning NextJS, TypeScript, and ExpressJS</p>
+<p align="left">- 📚 Currently learning GSAP, SQL Database, Prisma</p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,html,css,javascript,typescript,react,nextjs,tailwindcss,nodejs,expressjs,mongodb,git,github,figma&theme=dark&perline=15" alt="My Skills" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,html,css,javascript,typescript,react,nextjs,tailwindcss,nodejs,expressjs,mongodb,mysql,postgresql,supabase,prisma,git,github,figma&theme=dark&perline=15" alt="My Skills" /></a>
 
 <h2 align="left">📊 Github Stats</h2>
 
