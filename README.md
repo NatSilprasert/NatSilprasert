@@ -18,7 +18,44 @@
 
 ###
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,html,css,javascript,typescript,react,nextjs,tailwindcss,nodejs,expressjs,mongodb,mysql,postgresql,supabase,prisma,git,github,figma&theme=dark&perline=15" alt="My Skills" /></a>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="48" alt="python logo" />
+  <img width="0" />
+  <img src="https://skillicons.dev/icons?i=html" height="48" alt="html5 logo" />
+  <img width="0" />
+  <img src="https://skillicons.dev/icons?i=css" height="48" alt="css3 logo" />
+  <img width="0" />
+  <img src="https://skillicons.dev/icons?i=js" height="48" alt="javascript logo" />
+  <img width="0" />
+  <img src="https://skillicons.dev/icons?i=ts" height="48" alt="typescript logo" />
+  <img width="0" />
+  <img src="https://skillicons.dev/icons?i=react" height="48" alt="react logo" />
+  <img width="0" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="48" alt="nextjs logo" />
+  <img width="0" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="tailwindcss logo" />
+  <img width="0" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/8e917340d3eb80398fbb745edc55b486ec0cbf88/icons/Gsap-Dark.svg" height="48" alt="gsap logo" />
+  <img width="0" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="nodejs logo" />
+  <img width="0" />
+  <img src="https://skillicons.dev/icons?i=express" height="48" alt="express logo" />
+  <img width="0" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="mongodb logo" />
+  <img width="0" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="mysql logo" />
+  <img width="0" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="48" alt="postgresql logo" />
+  <img width="0" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="48" alt="prisma logo" />
+  <img width="0" />
+  <img src="https://skillicons.dev/icons?i=git" height="48" alt="git logo" />
+  <img width="0" />
+  <img src="https://skillicons.dev/icons?i=github" height="48" alt="github logo" />
+  <img width="0" />
+  <img src="https://skillicons.dev/icons?i=figma" height="48" alt="figma logo" />
+</div>
+
 
 <h2 align="left">📊 Github Stats</h2>
 
