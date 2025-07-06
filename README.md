@@ -35,7 +35,7 @@
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="tailwindcss logo" />
   <img width="0" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/8e917340d3eb80398fbb745edc55b486ec0cbf88/icons/Gsap-Dark.svg" height="48" alt="gsap logo" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/8e917340d3eb80398fbb745edc55b486ec0cbf88/icons/Gsap-Dark.svg" height="48" width="48" alt="gsap logo" />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="nodejs logo" />
   <img width="0" />
@@ -45,8 +45,6 @@
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="mysql logo" />
   <img width="0" />
-<!--   <img src="https://skillicons.dev/icons?i=postgres" height="48" alt="postgresql logo" />
-  <img width="0" /> -->
   <img src="https://skillicons.dev/icons?i=prisma" height="48" alt="prisma logo" />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=git" height="48" alt="git logo" />
@@ -56,6 +54,8 @@
   <img src="https://skillicons.dev/icons?i=figma" height="48" alt="figma logo" />
 </div>
 
+<!--   <img src="https://skillicons.dev/icons?i=postgres" height="48" alt="postgresql logo" />
+  <img width="0" /> -->
 
 <h2 align="left">📊 Github Stats</h2>
 
