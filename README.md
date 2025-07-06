@@ -45,8 +45,8 @@
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="mysql logo" />
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="48" alt="postgresql logo" />
-  <img width="0" />
+<!--   <img src="https://skillicons.dev/icons?i=postgres" height="48" alt="postgresql logo" />
+  <img width="0" /> -->
   <img src="https://skillicons.dev/icons?i=prisma" height="48" alt="prisma logo" />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=git" height="48" alt="git logo" />
