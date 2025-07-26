@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 📚 Currently learning GSAP, SQL Database, Prisma</p>
+<p align="left">- 📚 Currently learning C++ and Java</p>
 
 ###
 
