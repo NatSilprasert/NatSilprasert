@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m currently studying Computer Engineering at Chulalongkorn University. I’m passionate about self-improvement, business, and tech innovation. I’m always eager to learn, collaborate, and take on challenges that push me beyond my comfort zone.</p>
+<p align="left">I’m currently studying Computer Engineering at Chulalongkorn University. I’m passionate about self-improvement, business, and tech innovation. I’m always eager to learn, collaborate, and take on challenges that push me beyond my comfort zone..</p>
 
 ###
 
