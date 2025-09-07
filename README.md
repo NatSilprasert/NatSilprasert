@@ -21,6 +21,10 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="48" alt="python logo" />
   <img width="0" />
+  <img src="https://skillicons.dev/icons?i=java" height="48" alt="java logo" />
+  <img width="0" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="48" alt="cpp logo" />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=html" height="48" alt="html5 logo" />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=css" height="48" alt="css3 logo" />
@@ -28,6 +32,8 @@
   <img src="https://skillicons.dev/icons?i=js" height="48" alt="javascript logo" />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=ts" height="48" alt="typescript logo" />
+  <img width="0" />
+  <img src="https://skillicons.dev/icons?i=go" height="48" alt="go logo" />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=react" height="48" alt="react logo" />
   <img width="0" />
@@ -45,11 +51,19 @@
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="mysql logo" />
   <img width="0" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="48" alt="postgresql logo" />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=prisma" height="48" alt="prisma logo" />
+  <img width="0" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="48" alt="supabase logo" />
+  <img width="0" />
+  <img src="https://skillicons.dev/icons?i=docker" height="48" alt="docker logo" />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=git" height="48" alt="git logo" />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=github" height="48" alt="github logo" />
+  <img width="0" />
+  <img src="https://skillicons.dev/icons?i=postman" height="48" alt="postman logo" />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=figma" height="48" alt="figma logo" />
 </div>
