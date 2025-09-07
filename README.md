@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 📚 Currently learning Golang, C++ and Java</p>
+<p align="left">- 📚 Currently learning C++, Java, GO, Docker and React Native</p>
 
 ###
 
